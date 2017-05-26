@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  FBXMagic.cpp
+  FBXInteraction.cpp
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(81): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(82): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(83): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(86): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(87): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(88): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(128): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(129): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(130): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(131): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(150): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(151): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(157): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(158): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(159): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(160): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\pablo\desktop\pp5\pp5_base_app\fbxmagic\fbxinteraction.cpp(183): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'fbxsdk::FbxString'
+  Generating Code...
+  LINK : C:\Users\Pablo\Desktop\PP5\PP5_Base_App\Debug\FBXMagic.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\Pablo\Desktop\PP5\PP5_Base_App\Debug\FBXMagic.lib and object C:\Users\Pablo\Desktop\PP5\PP5_Base_App\Debug\FBXMagic.exp
+  FBXMagic.vcxproj -> C:\Users\Pablo\Desktop\PP5\PP5_Base_App\Debug\FBXMagic.dll
+  FBXMagic.vcxproj -> C:\Users\Pablo\Desktop\PP5\PP5_Base_App\Debug\FBXMagic.pdb (Full PDB)
